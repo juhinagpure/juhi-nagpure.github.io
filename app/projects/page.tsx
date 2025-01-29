@@ -6,8 +6,8 @@ export const PROJECTS = [
   {
     title: "Brainwave",
     description: "A simple weather application using OpenWeatherMap API.",
-    video: "/projects/Brainwave/video.mp4",
     image: "/projects/Brainwave/Thumbnail.png",
+    video: "/projects/Brainwave/video.mp4",
     github: "https://github.com/juhinagpure/Brainwave-",
     demo: "https://brainwave-chi-brown.vercel.app/",
     technologies: ["ReactJ", "TailwindCss "],
@@ -15,6 +15,7 @@ export const PROJECTS = [
   {
     title: "Christmas Gifts",
     description: "An AI-powered chat bot using natural language processing.",
+    image: "/projects/Christmas-Gifts/Thumbnail.png",
     video: "/projects/Christmas-Gifts/video.mp4",
     github: "https://github.com/juhinagpure/Christmas-Landing-page",
     demo: "https://christmas-landing-page-bay.vercel.app/",
@@ -24,6 +25,7 @@ export const PROJECTS = [
     title: "Fruit Store",
     description:
       "A full-stack e-commerce solution with React, Node.js, and MongoDB.",
+    image: "/projects/Fruit-Store/Thumbnail.png",
     video: "/projects/Fresh-fruit/video.mp4",
     github: "https://github.com/juhinagpure/Fresh-Fruits-Store",
     demo: "https://fresh-fruits-store.netlify.app/",
@@ -33,6 +35,7 @@ export const PROJECTS = [
   {
     title: "Recipe Finder",
     description: "A mobile app for tracking workouts and nutrition.",
+    image: "/projects/Recipe-Finder/Thumbnail.png",
     video: "/projects/Recipe-Finder/video.mp4",
     github: "https://github.com/juhinagpure/Recipe-Finder",
     demo: "https://recipe-finder-jvym.vercel.app/",
@@ -43,6 +46,7 @@ export const PROJECTS = [
     title: "Movie Watchlist",
     description:
       "A responsive portfolio website built with Next.js and Tailwind CSS.",
+    image: "/projects/Movie-Watchlist/Thumbnail.png",
     video: "/projects/Movie-Watchlist/video.mp4",
     github: "https://github.com/juhinagpure/Movie-Watchlist-App",
     demo: "https://movie-watchlist-app-1.vercel.app/",
@@ -52,6 +56,7 @@ export const PROJECTS = [
   {
     title: "Omnifood",
     description: "A productivity app for managing daily tasks and projects.",
+    image: "/projects/Omnifood/Thumbnail.png",
     video: "/projects/Omnifood/video.mp4",
     github: "https://github.com/username/task-manager",
     demo: "https://omnifood-start-up-html-css-js.vercel.app/",
@@ -61,6 +66,7 @@ export const PROJECTS = [
     title: "Usability Hub",
     description:
       "A custom blog platform with a rich text editor and comment system.",
+    image: "/projects/Usability-Hub/Thumbnail.png",
     video: "/projects/Usability Hub/video.mp4",
     github: "https://github.com/juhinagpure/Usability-Hub",
     demo: "https://juhinagpure.github.io/Usability-Hub/",
