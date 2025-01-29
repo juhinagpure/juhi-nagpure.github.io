@@ -25,8 +25,8 @@ export const PROJECTS = [
     title: "Fruit Store",
     description:
       "A full-stack e-commerce solution with React, Node.js, and MongoDB.",
-    image: "/projects/Fresh-fruit/Thumbnail.png",
-    video: "/projects/Fresh-fruit/video.mp4",
+    image: "/projects/Fresh-Fruit/Thumbnail.png",
+    video: "/projects/Fresh-Fruit/video.mp4",
     github: "https://github.com/juhinagpure/Fresh-Fruits-Store",
     demo: "https://fresh-fruits-store.netlify.app/",
     technologies: ["React", "Tailwind Css", "framer-motion"],
@@ -46,8 +46,8 @@ export const PROJECTS = [
     title: "Movie Watchlist",
     description:
       "A responsive portfolio website built with Next.js and Tailwind CSS.",
-    image: "/projects/Movie-watchlist/Thumbnail.png",
-    video: "/projects/Movie-watchlist/video.mp4",
+    image: "/projects/movie-watchlist/Thumbnail.png",
+    video: "/projects/movie-watchlist/video.mp4",
     github: "https://github.com/juhinagpure/Movie-Watchlist-App",
     demo: "https://movie-watchlist-app-1.vercel.app/",
     technologies: ["React Js", "Tailwind CSS", "Next Js"],
