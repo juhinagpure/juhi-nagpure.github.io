@@ -47,7 +47,7 @@ export const PROJECTS = [
     description:
       "A responsive portfolio website built with Next.js and Tailwind CSS.",
     image: "/projects/Movie-watchlist/Thumbnail.png",
-    video: "/projects/Movie-Watchlist/video.mp4",
+    video: "/projects/Movie-watchlist/video.mp4",
     github: "https://github.com/juhinagpure/Movie-Watchlist-App",
     demo: "https://movie-watchlist-app-1.vercel.app/",
     technologies: ["React Js", "Tailwind CSS", "Next Js"],
