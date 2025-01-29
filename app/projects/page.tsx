@@ -10,7 +10,7 @@ export const PROJECTS = [
     video: "/projects/Brainwave/video.mp4",
     github: "https://github.com/juhinagpure/Brainwave-",
     demo: "https://brainwave-chi-brown.vercel.app/",
-    technologies: ["ReactJ", "TailwindCss "],
+    technologies: ["Javascript", "ReactJs", "TailwindCss"],
   },
   {
     title: "Christmas Gifts",
@@ -19,7 +19,7 @@ export const PROJECTS = [
     video: "/projects/Christmas-Gifts/video.mp4",
     github: "https://github.com/juhinagpure/Christmas-Landing-page",
     demo: "https://christmas-landing-page-bay.vercel.app/",
-    technologies: ["Python", "TensorFlow", "NLP"],
+    technologies: ["HTML", "CSS", "JavaScript"],
   },
   {
     title: "Fruit Store",
@@ -29,7 +29,7 @@ export const PROJECTS = [
     video: "/projects/Fresh-Fruit/video.mp4",
     github: "https://github.com/juhinagpure/Fresh-Fruits-Store",
     demo: "https://fresh-fruits-store.netlify.app/",
-    technologies: ["React", "Tailwind Css", "framer-motion"],
+    technologies: ["JavaScript", "React", "Tailwind Css", "framer-motion"],
   },
 
   {
@@ -50,7 +50,13 @@ export const PROJECTS = [
     video: "/projects/movie-watchlist/video.mp4",
     github: "https://github.com/juhinagpure/Movie-Watchlist-App",
     demo: "https://movie-watchlist-app-1.vercel.app/",
-    technologies: ["React Js", "Tailwind CSS", "Next Js"],
+    technologies: [
+      "JavaScript",
+      "React.js",
+      "Tailwind CSS",
+      "Next.js",
+      "Redux",
+    ],
   },
 
   {
@@ -70,7 +76,7 @@ export const PROJECTS = [
     video: "/projects/Usability Hub/video.mp4",
     github: "https://github.com/juhinagpure/Usability-Hub",
     demo: "https://juhinagpure.github.io/Usability-Hub/",
-    technologies: ["HTML", "CSS", "JavaScript", "Media Queries"],
+    technologies: ["HTML", "CSS", "JavaScript"],
   },
 ];
 
