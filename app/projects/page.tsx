@@ -66,7 +66,7 @@ export const PROJECTS = [
     title: "Usability Hub",
     description:
       "A custom blog platform with a rich text editor and comment system.",
-    image: "/projects/Usability-Hub/Thumbnail.png",
+    image: "/projects/Usability Hub/Thumbnail.png",
     video: "/projects/Usability Hub/video.mp4",
     github: "https://github.com/juhinagpure/Usability-Hub",
     demo: "https://juhinagpure.github.io/Usability-Hub/",
