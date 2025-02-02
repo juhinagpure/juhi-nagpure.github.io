@@ -29,7 +29,7 @@ export const PROJECTS = [
     video: "/projects/Fresh-Fruit/video.mp4",
     github: "https://github.com/juhinagpure/Fresh-Fruits-Store",
     demo: "https://fresh-fruits-store.netlify.app/",
-    technologies: ["JavaScript", "React", "Tailwind Css", "framer-motion"],
+    technologies: ["React", "Tailwind Css", "framer-motion"],
   },
 
   {
@@ -50,13 +50,7 @@ export const PROJECTS = [
     video: "/projects/movie-watchlist/video.mp4",
     github: "https://github.com/juhinagpure/Movie-Watchlist-App",
     demo: "https://movie-watchlist-app-1.vercel.app/",
-    technologies: [
-      "JavaScript",
-      "React.js",
-      "Tailwind CSS",
-      "Next.js",
-      "Redux",
-    ],
+    technologies: ["React.js", "Tailwind CSS", "Redux"],
   },
 
   {
@@ -89,6 +83,7 @@ export default function Projects() {
     hidden: { opacity: 0 },
     visible: {
       opacity: 1,
+
       transition: {
         staggerChildren: 0.1,
       },
@@ -105,13 +100,13 @@ export default function Projects() {
 
   return (
     <motion.main
-      className="min-h-screen"
+      className="min-h-screen "
       initial="hidden"
       animate="visible"
       variants={containerVariants}
     >
       <motion.div
-        className="grid grid-cols-4 lg:grid-cols-12 gap-4"
+        className="grid grid-cols-4 lg:grid-cols-12 gap-4 "
         variants={containerVariants}
       >
         {PROJECTS.map((project, index) => (
