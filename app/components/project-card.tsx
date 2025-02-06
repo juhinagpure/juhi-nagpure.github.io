@@ -85,7 +85,7 @@ export function ProjectCard({
               variants={itemVariants}
               className="text-[10px] font-medium uppercase px-1.5 py-0.5 bg-pink-300/60 rounded-full h-[18px] grid place-items-center"
             >
-              {tech}
+              {tech}c
             </motion.span>
           ))}
         </motion.div>

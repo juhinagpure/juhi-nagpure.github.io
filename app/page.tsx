@@ -329,14 +329,15 @@ export default function Home() {
             className="mb-auto"
           />
           <p className="font-light">
-            Hi! I’m Juhi, a frontend developer passionate about creating
-            user-friendly and visually appealing websites. I’m currently
-            sharpening my skills in HTML, CSS, JavaScript, and React, with a
-            curiosity for exploring new tech and trends. I love turning ideas
-            into responsive, engaging digital experiences and am excited to
-            collaborate and grow in the world of web development. My approach is
-            both cute and unique, aiming to bring a fresh perspective to every
-            project.
+            Hello! I'm Juhi, a dedicated Software developer with a passion for
+            building robust and user-friendly applications. I specialize in
+            using modern technologies like React, Next.js, Node.js, Express, and
+            MongoDB to create seamless web experiences. With a focus on both
+            front-end and back-end development, I strive to deliver high-quality
+            solutions that are scalable and maintainable. I am committed to
+            ensuring accessibility, performance, and responsiveness across all
+            devices. My goal is to continuously learn and grow while delivering
+            impactful digital products.
           </p>
         </motion.div>
 
