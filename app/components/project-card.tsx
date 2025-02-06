@@ -91,7 +91,7 @@ export function ProjectCard({
             <motion.span
               key={tech}
               variants={itemVariants}
-              className="text-[10px] font-medium uppercase px-1.5 py-0.5 bg-pink-300/60 rounded-full h-[18px] grid place-items-center"
+              className="text-[10px] font-medium uppercase px-1.5 py-0.5 bg-pink-300/60 rounded-full h-[18px] grid place-items-center whitespace-nowrap"
             >
               {tech}
             </motion.span>

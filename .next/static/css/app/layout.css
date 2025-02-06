@@ -700,6 +700,9 @@ video {
 .overflow-hidden {
   overflow: hidden;
 }
+.whitespace-nowrap {
+  white-space: nowrap;
+}
 .rounded-\[20px\] {
   border-radius: 20px;
 }
