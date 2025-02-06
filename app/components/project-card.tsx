@@ -48,7 +48,7 @@ export function ProjectCard({
 
   useEffect(() => {
     if (videoRef.current) {
-      videoRef.current.playbackRate = 2.0;
+      videoRef.current.playbackRate = 4.0;
     }
   }, []);
 
@@ -93,7 +93,7 @@ export function ProjectCard({
               variants={itemVariants}
               className="text-[10px] font-medium uppercase px-1.5 py-0.5 bg-pink-300/60 rounded-full h-[18px] grid place-items-center"
             >
-              {tech}c
+              {tech}
             </motion.span>
           ))}
         </motion.div>
