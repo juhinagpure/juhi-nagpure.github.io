@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, Code } from "phosphor-react";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -44,6 +44,14 @@ export function ProjectCard({
   technologies,
 }: ProjectCardProps) {
   const [isHovered, setIsHovered] = useState(false);
+  const videoRef = useRef<HTMLVideoElement>(null);
+
+  useEffect(() => {
+    if (videoRef.current) {
+      videoRef.current.playbackRate = 2.0;
+    }
+  }, []);
+
   return (
     <motion.div
       className={`bg-pink-200 rounded-[20px] p-4 flex flex-col overflow-hidden ${className}`}
